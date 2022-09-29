@@ -1,0 +1,16 @@
+h1{
+    font-size: 30px;
+    color: red;
+    text-transform: capitalize;
+}
+
+div{
+    font-size: 20px;
+    background-color: aqua;
+}
+
+header{
+    background-color: aqua !important;
+    font-size: 20px;
+    text-align: center !important;
+}

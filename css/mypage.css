@@ -1,0 +1,29 @@
+
+li{
+    list-style-type: none;
+
+}
+
+div{
+    font-size: 20px;
+    background-color: aqua;
+}
+
+span{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    ;
+    color: blue;
+}
+button{
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+    font-size: 10px;
+}
+
+img{
+    width: 30%;
+    
+}
+
+
