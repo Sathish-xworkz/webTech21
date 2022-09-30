@@ -152,6 +152,131 @@ overflow:
 background images for body
 ==========
 *position: 
+============= predefined class ====
+pseudo class are use to applay special effects for the elements 
+syntax: elementname,your classname,uridname:pseudoclassname{
+
+
+}
+=================== JavaScript [ ECMA-6]======
+js = PL applay all rules 
+js use for create dynamic webpage.
+js- control html,css elements,class
+js - validation of html page 
+js- animation for html page 
+js - intract with backend / api calls
+js - store some amount of data in html page 
+js cache memory cookies 
+js - we can set/get html value to process
+-----------------------------------------
+js no need to install any softwares...
+js is execute all webbrowsers... [ internal all web browsers using some engine.v8. nodejs..]
+js - no complie time error only execute on browsers runtime
+js sync/async programs 
+========================================
+java == js 
+java object oriented programming language
+js = object based programming language 
+      class
+      get/setter
+      collections
+      inheriatence 
+      string, array,date, functions, math,
+      JSON objects .....
+==============client side validation---
+PL=
+------
+datatypes and variables
+========
+Not: no any specfic data types... int,string, 
+js support all type of data such as
+ Numbers, String/char boolean, objects,functions
+null,undefined
+
+=== variable--
+
+java = dt vn = value; int a=90;
+js - var / let/const == keywords
+
+Note: ; optional in js;
+    js variable can hold any type of data .... 
+    default of all variable is undefined;
+    js varaiable value can change accross the app.
+------
+java int a=90;
+js    var a=90;
+var name ="sathish"/ 'sathish';
+var c='J';
+var res=true;
+var amout= 890.90;
+var b;
+var u = undefined;
+-------------------------
+int a=90;
+ a=80;
+ int a=70;
+ -------------
+var a=90;
+ a=10;
+ var a=20;
+-----------
+ final int a=90;
+ js want to add any const value decleare with const keywords insted of var 
+
+ const a=90;
+     a=10; X
+     const a=20; X
+     var a=3; X
+------------------
+let a=90;
+   a=20;
+let a=10; X
+var a=2; X
+----------------------------------------output statments----
+syso();
+printf()
+cout()
+-----------------js---
+car.drive();
+-----------
+console.log("string msg"); Display msg on browsers console ..// developers no use for users 
+
+document.write("string value");   disp on webpage ..
+window.alert("string value"); browsers alert msg 
+.innerHTMl = input/output stmt for web page 
+-----------------------------
+2=====where to write /how to run js ====
+    1 internal developement [ inside html page using <script>]
+    2 external file [ need to be save with .js extention inside js-folders]
+    ---
+js= operators 
+ loops
+ conditional statements
+ --------java---
+
+ without nodejs server cant execute js file directly ...
+ --------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

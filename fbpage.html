@@ -78,8 +78,19 @@
         }
         tr:hover{
             background-color: azure;
+            cursor: move;
         }
-
+.mytextbox{
+    height: 20px;
+    font-size: 20px;
+    margin: 10px;
+    border: none;
+    border-bottom: 1px dotted gray;
+}
+.mytextbox:focus{
+    outline: none;
+    background-color: aliceblue;
+}
     </style>
 </head>
 <body>
@@ -133,7 +144,10 @@
             <td>Sathish</td>
         </tr>
     </table>
+    <br>
 
+<input class="mytextbox" type="text"><br>
+<input class="mytextbox" type="text">
     <br><br><br><br><br><br><br><br><br><br>
 </body>
 </html>
