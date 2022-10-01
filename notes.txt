@@ -256,8 +256,62 @@ js= operators
 
  without nodejs server cant execute js file directly ...
  --------------------
+ functions = js / java method 
+ --------------------------
+ block of logic 
+ reusing 
+ invoking function by name ;
+ ----------------------------
+ java = public static void calculator(int a, int b){
+    ----
 
+    return ;
+ }
+ int res=calculator(2,8);
+ syso(res)
+------------------------------------
+js functions and types
+-----------------
+syntx:    function[kw] nmeof the function[add]( a,b,c,d, [dont write any var,lwt,const kw inside]){
 
+.......
+return // optional depeneds on urs [ no need to mention return type]
+// js function can be return any type of data (value)
+}
+
+function add(){
+    10+2;
+}
+add();
+2.  function add(a,b){
+    a+b;
+}
+add(2,5);
+3.  function add(a,b){
+    let c=a+b;
+    return c;
+}
+let res=add(3,6);
+---------------------------
+.. Event handling in js
+1 mouse
+2 keyboard
+3 page
+ mouse  
+    onclick
+    ondblclick
+    onmouseover
+    ...
+keyboard
+    onkeypress
+    onkeyup
+    onkeydown
+    ......
+page 
+    onload
+    onunload
+    ====
+    oncopy 
 
 
 
