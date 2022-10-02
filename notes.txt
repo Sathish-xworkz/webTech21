@@ -312,6 +312,64 @@ page
     onunload
     ====
     oncopy 
+----------------------------------
+1-functions
+    types 
+    nested fun 
+     * js fun return any type even function
+
+add == return as sam function  
+add() result
+-------------
+2 event 
+  actions trigger from ui side 
+  something is happend then execute some pgms 
+    mouse
+    keyboard 
+    page
+    copy 
+    past
+    select 
+---------------------------
+
+==Javascript DOM==
+[document object module]
+dom for manipulate html element from js 
+can setattribute getattribute , value , change style 
+fully controle for html element from js 
+
+we can add new elemet from js 
+we delete elemet from js 
+
+dynamicly add/remove elements / value/attribute 
+------------------------------------------------
+dom minpulation methods 
+===
+document
+----------- 
+ document.getElementById("idname")
+document.getElementByName("name")
+
+if you want apply any style from js 
+use properties = style 
+and all css properties in js called methodname type need to be write
+      css           js 
+css = font-size;    fontSize 
+      color         color 
+      margin-left   marginLeft 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
