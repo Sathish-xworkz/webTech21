@@ -357,6 +357,46 @@ and all css properties in js called methodname type need to be write
 css = font-size;    fontSize 
       color         color 
       margin-left   marginLeft 
+-------------------------------------
+RegExp
+-------- 
+pattren matching... its predefined object 
+                                      functions 
+                                        test() // true/false 
+[A-Z]
+[a-z]
+[0-9]
+[*/. ]
+{min,max}
+{4,10}
+{5,}
+{,30}
+/ - start reg  / end reg  
+
+Exp: username =  /^[A-Za-z]{3,8}/;
+
+-----------  storage in html-5---
+1 localstorage
+2 sessionstorage 
+we can store 5mb data inside web browsers 
+
+it can be permanent/temp 
+
+localstorage and sessionstorage 
+ some methods are 
+            1 setItem('key','value')
+            2 getItem('key')
+            3 removeItem('key')
+
+
+
+
+
+
+
+
+
+
 
 
 
