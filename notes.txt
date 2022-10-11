@@ -387,6 +387,54 @@ localstorage and sessionstorage
             1 setItem('key','value')
             2 getItem('key')
             3 removeItem('key')
+------------------------------js topics--
+variable types 
+loops 
+functions 
+event handling 
+output statements
+dom manipulate 
+storage 
+javascript object 
+  java  
+ car c= new car();
+  c.name 
+  c.start();
+  ------------
+  js 4 ways to create objects 
+  -------------
+  1 literal way 
+  2 new 
+  3 constructors 
+  4 Object.create()
+
+------------------
+literal =   {} 
+object creations...
+let car={
+    name:'bmw',
+    modal:2022,
+    color:'blue',
+    //----stattes----
+    // behaviours ... function ==methods 
+    start:function(){
+        //......
+        console.log('car is starting..');
+    }
+}
+
+// how to call states or functions .
+car.name;
+car.start ; 
+car.start() ; 
+--------------------jsobjects---
+js object is dynamical added / remove 
+js object proper / behaviour also can be dynamical add/remove 
+
+
+
+
+
 
 
 
