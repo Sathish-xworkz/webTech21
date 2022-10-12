@@ -430,6 +430,34 @@ car.start() ;
 --------------------jsobjects---
 js object is dynamical added / remove 
 js object proper / behaviour also can be dynamical add/remove 
+------------------------timerfunction----------
+---------Arrow function expressions----------
+function add(){
+    ---
+    return ;
+}
+
+add();
+----------------------------------
+arrow  function eliminate  bellow 
+
+function keword;
+funname;
+{
+
+} // optional 
+
+return; 
+// no reuse of this function 
+// not support this keword 
+// fast execution 
+
+let hello = ()=> console.log('hi');
+
+
+hello();
+
+
 
 
 
