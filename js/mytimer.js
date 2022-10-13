@@ -102,17 +102,17 @@ support some methods=function to manipulate..
 // console.log(arr);
 // console.log(arr.splice(6,1,'Arun'));
 
-let marks=[30,50,60,25,78];
-console.log(marks.reduce((a,b)=>a+b));
-// function myfilter(a){
-//     return a>35;
-// }
+// let marks=[30,50,60,25,78];
+// console.log(marks.reduce((a,b)=>a+b));
+// // function myfilter(a){
+// //     return a>35;
+// // }
 
-// let res=arr.filter(myfilter);
+// // let res=arr.filter(myfilter);
 
 
-// console.log(res);
-// console.log(arr.filter((a)=>a>35));
-console.log(marks);
-console.log(marks.map((a)=>a+5));
-console.log(marks.map((a)=>Math.sqrt(a)));
+// // console.log(res);
+// // console.log(arr.filter((a)=>a>35));
+// console.log(marks);
+// console.log(marks.map((a)=>a+5));
+// console.log(marks.map((a)=>Math.sqrt(a)));

@@ -456,6 +456,26 @@ let hello = ()=> console.log('hi');
 
 
 hello();
+-------------------------- callbackfunction------
+array = push, splice, filter,map,forEach 
+push =insert value 
+splice = delete index,replace,addnewvalue based on index 
+filter = filter array value based on condition its reduce array size based on condition 
+ return array 
+ map = for individual element to manipulate, array size same , return array 
+ 
+ -----------------------------------------
+json *
+-----
+javascript object notation  
+use data interchange b/w diff software lang 
+ligthweight == string 
+
+key=value  '' ;
+
+all api response will get inform of json data 
+
+
 
 
 
